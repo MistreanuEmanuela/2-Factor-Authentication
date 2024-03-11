@@ -1,0 +1,4 @@
+username dezvoltator
+parola dezvoltator
+username ema parola ema
+username ana parola maria

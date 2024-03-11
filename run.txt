@@ -1,0 +1,8 @@
+gcc  client_aditional.c -o client_aditional
+gcc server_aditional.c -o server_aditional
+gcc server_2fa.c -o server_2fa
+gcc cleint_2fa.c -o client_2fa
+./client_2fa 127.0.0.1 2026
+./server_2fa 127.0.0.1 2025
+./server_aditional 127.0.0.1 2024
+./cleint_aditional 127.0.0.1 2024
